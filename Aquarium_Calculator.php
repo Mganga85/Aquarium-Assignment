@@ -12,7 +12,7 @@
     // Pressing return or enter will press the most upper left button 
     $message = ''; 
     if (isset($_REQUEST['button'])) { 
-    $message = $_REQUEST['button'] . ' was pressed.';
+    $message = $_REQUEST['button'] . ' Subbmit was pressed.';
     
 } 
 ?> 
