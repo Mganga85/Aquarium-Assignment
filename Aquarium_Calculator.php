@@ -34,6 +34,8 @@ if (isset($_REQUEST['button'])) {
         <hr size ="1" /> 
         
         <input type="submit" name="button" value="Submit Form">&nbsp; 
+        
+        <p>You just watched me change a file</p>
 
         <?= $message ?> 
 
